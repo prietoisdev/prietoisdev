@@ -1,1 +1,1 @@
-<h1>👋 Hey, soy <span style="color: ##22d3ee">prietodev</span></h1>
+<h1>👋 Hey, soy <span style="color: ##22d3ee; weight: 700;">prietodev</span></h1>
